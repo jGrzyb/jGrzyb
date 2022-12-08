@@ -5,6 +5,8 @@ Jestem *nowy* w świecie programowania, ale zacząłem już pierszy projekt z ko
 
 ## [MOJA STRONA](https://jgrzyb.github.io)
 
+--------------------------
+
 ## [fork repozytorium](https://github.com/jGrzyb/jukebox)
 ## [orginalna strona repozytorium](https://github.com/openai/jukebox)
 ## [Publikacja](https://arxiv.org/abs/2005.00341)
