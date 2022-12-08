@@ -12,6 +12,8 @@ Jestem *nowy* w świecie programowania, ale zacząłem już pierszy projekt z ko
 ## [Publikacja](https://arxiv.org/abs/2005.00341)
 ## [Publikacja na papers with code](https://paperswithcode.com/paper/jukebox-a-generative-model-for-music-1)
 
+-----------------------
+
 <details>
   <summary>Jak się ze mną skontaktować:</summary>
   
