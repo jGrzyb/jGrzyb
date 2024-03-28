@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Jakub Grzyb
 --------------------------
 
-I am a second-year student of Computer Science and Intelligent Systems at AGH University of Science and Technology in Krakow. I am learning programming, data analysis, artificial intelligence, and much more. Besides my studies, I am actively involved in a scientific circle [Code Industry](http://coin.agh.edu.pl/) or play music.
+I am a second-year student of Computer Science and Intelligent Systems at AGH University of Science and Technology in Krakow. I am learning programming, data analysis, artificial intelligence, and much more. Besides my studies, I am actively involved in a scientific circle [Code Industry](http://coin.agh.edu.pl/) and play music.
 
 ## Some little interesting projects
 
