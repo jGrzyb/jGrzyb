@@ -9,6 +9,10 @@ Jestem studentem drugiego roku Informatyki i Systemów Inteligentnych na AGH w K
 - 👅[translator języków programowania](https://github.com/jGrzyb/translator-jezyk-w-programowania)
 - 🖌[Paint w javie](https://github.com/jGrzyb/paint_in_java)
 
+## CodeWars repos
+- [C#](https://github.com/jGrzyb/CodeWars_cs)
+- [Python](https://github.com/jGrzyb/CodeWars_Python)
+
 ![CodeWars](https://github.r2v.ch/codewars?user=Grzybek5)
 
 
