@@ -1,13 +1,13 @@
-# 👋 Cześć! Jestem Jakub Grzyb
+# 👋 Hi! I'm Jakub Grzyb
 --------------------------
 
-Jestem studentem drugiego roku Informatyki i Systemów Inteligentnych na AGH w Krakowie. Uczę się porgramowania, analizy danych, sztucznej inteligencji i wiele więcej, a poza studiami realizuję się w kole naukowym [Code Industry](http://coin.agh.edu.pl/), i gram na instrumentach muzycznych.
+I am a second-year student of Computer Science and Intelligent Systems at AGH University of Science and Technology in Krakow. I am learning programming, data analysis, artificial intelligence, and much more. Besides my studies, I am actively involved in a scientific circle [Code Industry](http://coin.agh.edu.pl/) or play music.
 
-## Kilka ciekawych projekcików:
+## Some little interesting projects
 
-- 🐍[Snake w wierszu poleceń](https://github.com/jGrzyb/snake-for-pp)
-- 👅[translator języków programowania](https://github.com/jGrzyb/translator-jezyk-w-programowania)
-- 🖌[Paint w javie](https://github.com/jGrzyb/paint_in_java)
+- 🐍[Snake in cmd](https://github.com/jGrzyb/snake-for-pp)
+- 👅[programming languages translator](https://github.com/jGrzyb/translator-jezyk-w-programowania)
+- 🖌[Paint in Java](https://github.com/jGrzyb/paint_in_java)
 
 ## CodeWars repos
 - [C#](https://github.com/jGrzyb/CodeWars_cs)
@@ -19,8 +19,8 @@ Jestem studentem drugiego roku Informatyki i Systemów Inteligentnych na AGH w K
 -----------------------
 
 <details>
-  <summary>Jak się ze mną skontaktować:</summary>
+  <summary>Contact details:</summary>
   
-- email: jgrzyb@student.agh.edu.pl
+- email: grzybjaku@gmail.com
 
 </details>
