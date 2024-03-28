@@ -1,9 +1,9 @@
 # 👋 Hi! I'm Jakub Grzyb
 --------------------------
 
-I am a second-year student of Computer Science and Intelligent Systems at AGH University of Science and Technology in Krakow. I am learning programming, data analysis, artificial intelligence, and much more. Besides my studies, I am actively involved in a scientific circle [Code Industry](http://coin.agh.edu.pl/) and play music.
+I am a second-year student of Computer Science and Intelligent Systems at AGH University of Cracow. I am learning programming, data analysis, artificial intelligence, and much more. Besides my studies, I am involved in a science club [Code Industry](http://coin.agh.edu.pl/).
 
-## Some little interesting projects
+## Some interesting projects
 
 - 🐍[Snake in cmd](https://github.com/jGrzyb/snake-for-pp)
 - 👅[programming languages translator](https://github.com/jGrzyb/translator-jezyk-w-programowania)
