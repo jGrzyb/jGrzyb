@@ -4,7 +4,7 @@
 
 ⚙️ I’m passionate about software development, artificial intelligence, and game creation. As a member of the [Code Industry](http://coin.agh.edu.pl/) scientific circle, I collaborate on game development projects 🎮 and as a member of [AiLab](http://www.ailab.agh.edu.pl/) I develop AI models 🤖 .
 
-🔧 I continuously enhance my skills through personal projects, programming courses and challanges, and participation in hackathons and game jams. I enjoy exploring new technologies and turning ideas into impactful solutions. 🚀
+🔧 I continuously enhance my skills through personal projects, programming courses, challanges, and participation in hackathons and game jams. I enjoy exploring new technologies and turning ideas into impactful solutions. 🚀
 
 ## Some interesting projects:
 
