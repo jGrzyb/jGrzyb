@@ -12,7 +12,7 @@
 
 - ### 🪙 [Campaign Manager Website](https://github.com/jGrzyb/Spring-React-CRUD-campaign) (Java, Spring, React)
 
-- ### 🩺 [Appointment Manager Webite](https://github.com/jGrzyb/Doctors-Appointment-Manager) (JavaScript, TypeScript, Express, Angular)
+- ### 🩺 [Appointment Manager Website](https://github.com/jGrzyb/Doctors-Appointment-Manager) (JavaScript, TypeScript, Express, Angular)
 
 - ### 🎶 [Music Genre Recogniser](https://github.com/jGrzyb/musicGenreRecogniser) (Python, tensorflow)
 
