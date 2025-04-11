@@ -42,6 +42,7 @@
 
 ---
 
-## CodeWars
+## LeetCode and CodeWars
+![Dmytro Baida's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/Grzybek5?theme=dark&bgColor=282828)
 
 ![CodeWars](https://github.r2v.ch/codewars?user=Grzybek5)
