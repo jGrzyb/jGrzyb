@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Jakub Grzyb
 
-👋 Hi! I’m a 3rd-year Computer Science and Intelligent Systems student at AGH University of Science and Technology in Cracow. My studies focus on programming, data analysis, data engineering, machine learning, and web development, equipping me with a strong foundation in modern technologies. 🖥️
+👋 Hi! I’m a Computer Science and Intelligent Systems student at AGH University of Science and Technology in Cracow. My studies focus on programming, data analysis, data engineering, machine learning, and web development, equipping me with a strong foundation in modern technologies. 🖥️
 
 ⚙️ I’m passionate about software development, artificial intelligence, and game creation. As a member of the [Code Industry](http://coin.agh.edu.pl/) scientific circle, I collaborate on game development projects 🎮 and as a member of [AiLab](http://www.ailab.agh.edu.pl/) I develop AI models 🤖 .
 
